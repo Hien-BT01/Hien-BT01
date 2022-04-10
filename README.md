@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bùi Thế Hiển &nbsp;<img src="https://media1.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif" width="15"></h1>
-<h3 align="center">I have a passion for developing website and mobile app.</h3>
+<h2 align="left">🧐&nbsp;&nbsp;Talking about Personal Stuffs:</h2>
 
-- 🌱 I’m currently learning **Web and Mobile**
+[![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:tran123456k@gmail.com)
+
+- 🌱 I’m currently learning `Web` and `Mobile`
 
 - 👯 I’m looking to collaborate on [Software engineering event management system](https://github.com/kien123456k/seems)
 
