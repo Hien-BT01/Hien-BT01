@@ -5,13 +5,13 @@
 
 - 👯 I’m looking to collaborate on [Software engineering event management system](https://github.com/kien123456k/seems)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hien-BT01?tab=repositories](https://github.com/Hien-BT01?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Hien-BT01?tab=repositories)
 
 - 💬 Ask me about **Web and some soft skills**
 
 - 📫 How to reach me **hienbui25g@gmail.com**
 
-- 📄 Know about my experiences [https://www.topcv.vn/xem-cv/VwAFA1QFBlVSUQIKV1ZRUlNTB1pTA1ANCVACBQad2c](https://www.topcv.vn/xem-cv/VwAFA1QFBlVSUQIKV1ZRUlNTB1pTA1ANCVACBQad2c)
+- 📄 Know about my experiences [Topcv](https://www.topcv.vn/xem-cv/VwAFA1QFBlVSUQIKV1ZRUlNTB1pTA1ANCVACBQad2c)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
