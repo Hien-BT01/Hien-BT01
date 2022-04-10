@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bùi Thế Hiển</h1>
+<h1 align="center">Hi 👋, I'm Bùi Thế Hiển &nbsp;<img src="https://media1.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif" width="15"></h1>
 <h3 align="center">I have a passion for developing website and mobile app.</h3>
 
 - 🌱 I’m currently learning **Web and Mobile**
