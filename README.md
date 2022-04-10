@@ -8,7 +8,7 @@
 
 - 👨🏻‍💻 I am a FPT student and passionate of developing Web app and Mobile app.
 
-- 👯 I’m looking to collaborate on [Software engineering event management system](https://github.com/kien123456k/seems)
+- 👯 I’m looking to collaborate on [SEEMS](https://github.com/kien123456k/seems)
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Hien-BT01?tab=repositories)
 
