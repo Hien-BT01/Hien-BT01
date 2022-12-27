@@ -20,6 +20,9 @@
 <p align="left">
 <a href="https://fb.com/hienbt.no1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hienbt.no1" height="30" width="40" /></a>
 </p>
+
+---
+
 <a href="https://app.daily.dev/Shelby"><img src="https://api.daily.dev/devcards/b99cd019e1354ae5a1686f691d952faf.png?r=97o" width="400" alt="Hiển Bùi's Dev Card"/></a>
 
 <h2 align="center"><img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30">&nbsp;&nbsp;Technologies and Tools&nbsp;&nbsp;<img src="https://media1.giphy.com/media/3oKIPkHXpUP8lIO0AU/giphy.gif" width="30"></h2>
