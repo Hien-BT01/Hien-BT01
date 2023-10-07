@@ -2,7 +2,7 @@
 
 I'm have graduated with bachelor's degrees forom [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn/) - K15
 
-<h2 align="left">🧐&nbsp;&nbsp;Talking about Personal Stuffs:</h2>
+<h2 align="left">🧐&nbsp;&nbsp;Talking about me:</h2>
 
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:hienbui25g@gmail.com)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/kirintran/)](https://www.linkedin.com/in/b%C3%B9i-hi%E1%BB%83n-025490259/)
