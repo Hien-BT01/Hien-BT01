@@ -7,6 +7,7 @@ I'm have graduated with bachelor's degrees forom [VNU HCMC FPT University](https
 [![Gmail](https://img.shields.io/twitter/url?label=Gmail&logo=gmail&url=https://gmail.com)](mailto:hienbui25g@gmail.com)
 [![Linkedin](https://img.shields.io/twitter/url?label=Linkedin&logo=linkedin&url=https://www.linkedin.com/in/kirintran/)](https://www.linkedin.com/in/b%C3%B9i-hi%E1%BB%83n-025490259/)
 [![GitHub](https://img.shields.io/twitter/url?label=Visualize&logo=github&url=https://profile-summary-for-github.com/user/kien123456k)](https://profile-summary-for-github.com/user/Hien-BT01)
+<br>
 <a href="https://app.daily.dev/Shelby"><img src="https://api.daily.dev/devcards/b99cd019e1354ae5a1686f691d952faf.png?r=97o" width="400" alt="Hiển Bùi's Dev Card"/></a>
 
 - <img src="https://media2.giphy.com/media/5aYfJYohCSeYgtVlUj/giphy.gif" width="30" />&nbsp;I’m currently delving into `Web` (React & Nodejs).
