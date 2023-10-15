@@ -1,6 +1,6 @@
 <h1>👋 Helly guys, I'm Bùi Thế Hiển  &nbsp;<img src="https://media1.giphy.com/media/5WjvTkh7sYGE4Jq3qA/giphy.gif" width="15"></h1>
 
-I'm have graduated with bachelor's degrees forom [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn/) - K15
+I'm have graduated with bachelor's degrees from [VNU HCMC FPT University](https://hcmuni.fpt.edu.vn/) - K15
 
 <h2 align="left">🧐&nbsp;&nbsp;Talking about me:</h2>
 
